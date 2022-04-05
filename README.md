@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @manit989
+- 👀 I’m interested in linux and shell scripting .
